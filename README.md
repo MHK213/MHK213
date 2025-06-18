@@ -29,11 +29,6 @@
 
 ---
 
-### 📈 GitHub Stats
-![MHK213's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHK213&show_icons=true&hide_title=true&theme=default) <br>
-
----
-
 ### 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHK213&layout=compact&theme=default)
 
