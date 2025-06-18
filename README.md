@@ -26,3 +26,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Apache NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+![MHK213's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHK213&show_icons=true&hide_title=true&theme=default) <br>
+
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MHK213&theme=default) <br>
