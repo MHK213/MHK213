@@ -2,8 +2,8 @@
 
 🎓 I am a computer science student with a bachelor's degree.<br>
 💻 I am currently learning the basics of programming using C++.<br>
-🧠 I am passionate about building a solid foundation in programming.<br>
-🚀 I strive to become a professional full stack desktop developer.<br>
+🧠 Focused on building a strong foundation in problem-solving and algorithms.<br>
+🚀 Growing step by step towards becoming a full-stack desktop developer.<br>
 
 ---
 
