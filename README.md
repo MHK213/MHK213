@@ -1,14 +1,15 @@
 ### Hi there 👋 I'm Abdelheq
 
 🎓 I am a computer science student with a bachelor's degree.<br>
-💻 I am currently learning the basics of programming using C++.<br>
-🧠 Focused on building a strong foundation in problem-solving and algorithms.<br>
+💻 I have completed my first foundational phase in C++, where I learned core programming concepts, solved 500+ programming problems, and built more than 10 projects.<br>
+🧠 Currently learning backend development with C# and .NET to strengthen my software engineering skills and move toward full back-end system design.<br>
 
 ---
 
 ### 📫 Let's Connect
 - ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white) www.linkedin.com/in/abdelheq-madi-ab34b9348 <br>
 - ![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white) madiabdelheq@gmail.com <br>
+- ![Codewars](https://img.shields.io/badge/-Codewars-red?style=flat-square&logo=codewars&logoColor=white) https://www.codewars.com/users/MHK213 <br>
 
 ---
 
