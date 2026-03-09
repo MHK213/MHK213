@@ -35,9 +35,4 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Apache NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white)
 
----
-
-### 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHK213&layout=compact&theme=tokyonight)
 
