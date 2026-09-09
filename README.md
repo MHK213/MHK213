@@ -11,7 +11,6 @@
 ### 🏆 Codewars
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mhk213)
-![LeetCode Badge](Images/leetcode-badge.png)
 ![Codewars](https://www.codewars.com/users/MHK213/badges/large)
 
 ---
