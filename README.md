@@ -10,6 +10,7 @@
 
 ### 🏆 Codewars
 
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=mhk213&theme=Dark)](https://leetcode.com/mhk213)
 ![Codewars](https://www.codewars.com/users/MHK213/badges/large)
 
 ---
