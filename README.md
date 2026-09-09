@@ -8,7 +8,7 @@
 
 ---
 
-### 🏆 Codewars
+### Coding Profiles
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mhk213)
 ![Codewars](https://www.codewars.com/users/MHK213/badges/large)
